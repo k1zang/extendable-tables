@@ -1,6 +1,6 @@
 <?php
 
-namespace Models\Traits;
+namespace Test\Traits;
 
 use App\Support\Traits\CanExtend;
 use Illuminate\Database\Eloquent\Casts\Attribute;
