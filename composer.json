@@ -1,6 +1,6 @@
 {
   "name": "k1zang/extendable-tables",
-  "description": "allows the Laravel's models tables to extend",
+  "description": "simplify morphy relations by extending models in Laravel",
   "type": "library",
   "require": {
     "php": "^8.2",
