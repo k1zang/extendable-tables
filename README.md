@@ -40,6 +40,8 @@ class Profile extends Model
 }
 ```
 
+Thats it! there are no new api, use same old Laravel Model methods.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
